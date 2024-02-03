@@ -1,14 +1,16 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Space News API",
+    "live": "https://seal-project1-dusky.vercel.app",
+    "git": "https://github.com/hojoon0724/seal_project1",
+    "image": "https://github.com/hojoon0724/03-06-portfolio-frontend/blob/main/public/project1-resized.png?raw=true",
+    "description": "A website that fetches data from an API and renders the news with a short summary and a link to the article"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Urban Passport Log",
+    "live": "https://hk-seal-project2.onrender.com",
+    "git": "https://github.com/hojoon0724/seal_project2",
+    "image": "https://github.com/hojoon0724/03-06-portfolio-frontend/blob/main/public/projec2-resized.png?raw=true",
+    "description": "An app where the user can create a list of cities they travelled and wish to travel using MongoDB"
   }
 ]
